@@ -1,7 +1,4 @@
-# readme-edits
-
-# HelloWorld -- KingdomWithin -- ReadMe--Edits
-
+# HelloWorld -- KingdomWithin
 #
 
 # (Long Time, GitHub -- Fan, never need discrete 'LogIn' credentials -- always learning someone else's code.)
